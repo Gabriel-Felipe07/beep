@@ -1,0 +1,14 @@
+C:\Users\SENAI\Desktop\beep\bin\Debug\net7.0\beep.exe
+C:\Users\SENAI\Desktop\beep\bin\Debug\net7.0\beep.deps.json
+C:\Users\SENAI\Desktop\beep\bin\Debug\net7.0\beep.runtimeconfig.json
+C:\Users\SENAI\Desktop\beep\bin\Debug\net7.0\beep.dll
+C:\Users\SENAI\Desktop\beep\bin\Debug\net7.0\beep.pdb
+C:\Users\SENAI\Desktop\beep\obj\Debug\net7.0\beep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI\Desktop\beep\obj\Debug\net7.0\beep.AssemblyInfoInputs.cache
+C:\Users\SENAI\Desktop\beep\obj\Debug\net7.0\beep.AssemblyInfo.cs
+C:\Users\SENAI\Desktop\beep\obj\Debug\net7.0\beep.csproj.CoreCompileInputs.cache
+C:\Users\SENAI\Desktop\beep\obj\Debug\net7.0\beep.dll
+C:\Users\SENAI\Desktop\beep\obj\Debug\net7.0\refint\beep.dll
+C:\Users\SENAI\Desktop\beep\obj\Debug\net7.0\beep.pdb
+C:\Users\SENAI\Desktop\beep\obj\Debug\net7.0\beep.genruntimeconfig.cache
+C:\Users\SENAI\Desktop\beep\obj\Debug\net7.0\ref\beep.dll
